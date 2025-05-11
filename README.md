@@ -7,3 +7,6 @@ The system features functionality for adding, editing, deleting, and searching s
 The application provides a user-friendly interface with a table to display student data, a search bar to filter results, and a right-click context menu to edit or remove students.
 
 🔗 [View Source Code on GitHub](https://github.com/rishuraj18/EduTrack)
+
+![Screenshot](image.png)
+
