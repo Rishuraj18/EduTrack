@@ -8,5 +8,6 @@ The application provides a user-friendly interface with a table to display stude
 
 🔗 [View Source Code on GitHub](https://github.com/rishuraj18/EduTrack)
 
+# Preview
 ![Screenshot](image.png)
 
